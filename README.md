@@ -34,7 +34,7 @@ The analysis combines Python-based EDA with a final interactive dashboard built 
 
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)  
+![Dashboard Screenshot](https://github.com/onenonlytw/The-Impact-of-Remote-Work-on-Employees-Mental-Health/blob/main/Dashboard.png)  
 🔗 *Open Power BI dashboard file*: [`Final_Dashboard.pbix`](./Final_Dashboard.pbix)
 
 ---
